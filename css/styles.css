@@ -1,3 +1,6 @@
+/*    font-family: 'Noto Sans Georgian',
+   sans-serif; */
+
 h1,
 h2,
 h3,
@@ -27,7 +30,7 @@ img {
 
 body {
     font-family: 'Lato', sans-serif;
-    font-family: 'Noto Sans Georgian', sans-serif;
+
 }
 
 .container {
@@ -198,4 +201,17 @@ body {
 
 .centr-foto-box {
     display: flex;
+}
+
+/* ===== video ===== */
+
+
+/* ===== Product ===== */
+.product-block {
+    display: flex;
+}
+
+.product-info {
+    max-width: 584px;
+    margin-left: 87px;
 }
